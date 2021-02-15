@@ -12,3 +12,4 @@
 ![WhatsApp Image 2021-02-13 at 16 37 00 (3)](https://user-images.githubusercontent.com/70384074/107945886-ef928080-6f98-11eb-8974-1d2b58dd2b6a.jpeg)
 ![WhatsApp Image 2021-02-13 at 16 37 00 (2)](https://user-images.githubusercontent.com/70384074/107945887-ef928080-6f98-11eb-8dd3-fae96bcf14bb.jpeg)
 # Liciences & copyright
+© by Iacob Stelică , independent aplication developer on 15.02.2021
