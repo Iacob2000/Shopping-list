@@ -1,7 +1,8 @@
 package com.aplicatie.listacumparaturi20;
 
 public class Model_class {
-      Integer id;
+
+    Integer id;
     String product;
 
 
@@ -19,16 +20,8 @@ public class Model_class {
         return id;
     }
 
-    public void setId(Integer id) {
-        this.id = id;
-    }
-
     public String getProduct() {
         return product;
-    }
-
-    public void setProduct(String product) {
-        this.product = product;
     }
 
 }
